@@ -1,6 +1,6 @@
 # TopologyProject
 Compute and analyze topological features of a real-world dataset
- To run this code and reproduce results
+ To run this code and reproduce results\n
  1.) create TDA envrionment with conda env create -f tda.yml
  2.) if on the william and mary bg lab machine, use source /opt/anaconda/bin/activate
  3.) activate with conda activate tda
