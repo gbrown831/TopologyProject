@@ -17,3 +17,13 @@ Compute and analyze topological features of a real-world dataset
  - DataEngineering.py for code fragment embedding extraction
  - AnalyticalEngineering.ipynb for EDA and topological feature analysis
 
+In this Repo, results from topological feature analysis are all stored in figs folder. However, exlporatory data analysis results are located in AnalyticalEngineering.ipynb notebook as well as the topological feature analysis results for the class level.
+
+Results seen in figs functionally identical to AnalyticalEngineering.ipynb notebook, but come from Cynthia Xiong and Michael Wojdak's work. Their githubs are attached.
+
+https://github.com/CynthiaTheGriffin/topology_project/blob/main/AnalyticalEngineering2.ipynb
+
+https://github.com/Michael-Wojdak/tda_project/tree/main/figures
+
+Ohter Contributors include Cooper Ferguson and Zherui Zhang
+
